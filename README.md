@@ -1,7 +1,7 @@
-
-
 # React SSR starter template
-Render components from server.
+This is a starter template for SSR.
+
+SSR is a technique used to render React components on the server side before sending them to the client. Normally, React renders components on the client side, but with SSR, the initial rendering happens on the server.
 
 ## Setup
 
